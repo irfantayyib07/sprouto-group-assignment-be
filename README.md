@@ -1,4 +1,4 @@
-# MavenUp - Employees Manager (Backend)
+# Sprouto Group - Task Manager by Irfan Tayyab (Backend)
 
 Steps to get started:
 
@@ -6,4 +6,4 @@ Steps to get started:
 2. Create a file named ".env" in the root directory and paste the following in it `DATABASE_URI=mongodb+srv://irfantayyab:irfantayyib@mavenupemployeesmanager.cp5jetv.mongodb.net/`
 3. Run "npm run dev" command to start the development server
 
-Live demo: https://mavenup-backend.vercel.app/employees
+Live demo: https://sprouto-group-assignment-be.vercel.app/
