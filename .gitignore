@@ -1,0 +1,6 @@
+.env
+node_modules
+toupload
+uploaded
+.vercel
+vercel.json
